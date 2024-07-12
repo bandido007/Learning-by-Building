@@ -36,4 +36,4 @@ The primary aim is to understand the mathematical logic behind key methods used 
 
 The project provides a foundational understanding of logistic regression's mathematical methods and enhances comprehension of how these methods contribute to predicting probabilities of outcomes.
 
-This description should be suitable for your GitHub project documentation, providing a clear, concise, and precise overview of your project's goals, methodology, and implementation.
+
