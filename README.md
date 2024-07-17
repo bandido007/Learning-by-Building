@@ -1,11 +1,8 @@
-# Learning-by-Building
+# Learning-by-Building 1. 
 Compilation of activities on building Regression and Classification models 
 
-This is an overview of my activities and projects focused on building both regression and classification models. The aim is to build as many projects as possible to understand the algorithms used in these models both theoretically and practically.
+This is an overview of my activities and projects focused on building both regression and classification models specifically on Logistic and Linear Regression. The aim is to build as many projects as possible to understand the algorithms used in these models both theoretically and practically.
 
-### Diabetes2.0 Model
-
-This project evaluates and predicts the probability of diabetes outcomes based on the Pima Indians Diabetes Dataset, which includes the following independent variables: 'Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', and 'Age'.
 
 ### Objective
 
